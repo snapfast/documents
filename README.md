@@ -16,5 +16,5 @@ rahul bali uses this to write anything and everything. writing the stories and a
 ---
 
 
-[Repo](https://snapfast.github.io/documents/)
+[Repo](https://github.com/snapfast/documents/)
 
